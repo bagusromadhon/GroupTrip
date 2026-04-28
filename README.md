@@ -26,4 +26,4 @@ Pengujian dilakukan berdasarkan standar aspek kualitas perangkat lunak yang rele
 
 ## 🔗 Link Akses
 - **Source Code**: [https://github.com/bagusromadhon/GroupTrip](https://github.com/bagusromadhon/GroupTrip)
-- **Published Web**: [https://bagusromadhon.github.io/GroupTrip](https://bagusromadhon.github.io/GroupTrip)
+- **Published Web**: http://grouptripsync.infinityfreeapp.com

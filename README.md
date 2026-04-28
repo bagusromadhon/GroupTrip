@@ -25,5 +25,5 @@ Pengujian dilakukan berdasarkan standar aspek kualitas perangkat lunak yang rele
 - JavaScript (Vanilla JS, Intersection Observer API)
 
 ## 🔗 Link Akses
-- **Source Code**: [Isi dengan link repositori GitHub ini nantinya]
-- **Published Web**: [Isi dengan link GitHub Pages nantinya]
+- **Source Code**: [https://github.com/bagusromadhon/GroupTrip](https://github.com/bagusromadhon/GroupTrip)
+- **Published Web**: [https://bagusromadhon.github.io/GroupTrip](https://bagusromadhon.github.io/GroupTrip)
